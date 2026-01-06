@@ -22,7 +22,7 @@
 using namespace std;
 
 class Rectangle{
-    private: //Attributes | Atributos
+    private: 
     float length;
     float width;
 
